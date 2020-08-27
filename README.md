@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Anthony! I am a web developer thirsting for knowledge in this field. Let me know if you'd like us to work on any projects!
+
 <!--
 **AnthonyKuang/AnthonyKuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
