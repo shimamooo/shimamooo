@@ -2,6 +2,8 @@
 
 My name is Anthony! I am a web developer thirsting for knowledge in this field. Let me know if you'd like us to work on any projects!
 
+[![AnthonyKuang's github stats](https://github-readme-stats.vercel.app/api?username=AnthonyKuang)](https://github.com/AnthonyKuang/github-readme-stats)
+
 <!--
 **AnthonyKuang/AnthonyKuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
