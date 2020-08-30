@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Anthony! I am a web developer thirsting for knowledge in this field. Let me know if you'd like us to work on any projects!
+My name is Anthony! I am a frontend web developer that excels at building beautiful, responsive websites.
+My core belief in programming is to always use best practices for greater web accessibility and semantic code!
 
 [![AnthonyKuang's github stats](https://github-readme-stats.vercel.app/api?username=AnthonyKuang)](https://github.com/AnthonyKuang/github-readme-stats)
 
