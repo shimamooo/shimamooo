@@ -5,6 +5,8 @@ My core belief in programming is to constantly refactor my code for greater acce
 
 [![AnthonyKuang's github stats](https://github-readme-stats.vercel.app/api?username=AnthonyKuang)](https://github.com/AnthonyKuang/github-readme-stats)
 
+![Chonky dog that accompanies me as I code!](C:\Users\Jun\Downloads\IMG_0754.jpg)
+
 <!--
 **AnthonyKuang/AnthonyKuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
