@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Anthony! I am a frontend web developer that excels at building beautiful, responsive websites.
-My core belief in programming is to constantly refactor my code for greater accessibility and better practices.
+I'm Anthony! I am a software engineer that excels at building beautiful, responsive websites.
 
 [![AnthonyKuang's github stats](https://github-readme-stats.vercel.app/api?username=AnthonyKuang)](https://github.com/AnthonyKuang/github-readme-stats)
 
