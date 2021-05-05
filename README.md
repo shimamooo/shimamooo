@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Anthony! I am a software engineer that excels at building beautiful, responsive websites.
+I'm Anthony! I am a 16 y/o software engineering learning new tech every day!
 
 [![AnthonyKuang's github stats](https://github-readme-stats.vercel.app/api?username=AnthonyKuang)](https://github.com/AnthonyKuang/github-readme-stats)
 <!--
