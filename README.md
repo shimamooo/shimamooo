@@ -9,7 +9,7 @@ I'm from the sunny city of Irvine, CA. It's currently raining here, my favorite 
 - [ ] Start a SaaS company
   - [ ] Grow lumiere.codes to 100k users
   - [ ] Lead a complementing and skilled team
-- [ ] Be more awesome
+- [ ] Be marginally more awesome
   - [ ] Learn in public
   - [ ] Start a YouTube channel
   - [ ] Practical tutorials on building SaaS from the ground up
