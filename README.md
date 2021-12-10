@@ -2,7 +2,7 @@
 
 is just trying his best. Whether it all works out or not, only time will tell :D
 
-I'm from the bougey city of Irvine, CA. It's currently raining here, my favorite type of weather. Currently struggling with balancing College Apps with coding, school, and piano. I can't focus on many things at once.
+I'm from the sunny city of Irvine, CA. It's currently raining here, my favorite type of weather. Currently struggling with balancing College Apps with coding, school, and piano. I can't focus on many things at once.
 
 ## Goals
 
