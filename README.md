@@ -22,3 +22,5 @@ I'm from the sunny city of Irvine, CA. It's currently raining here, my favorite 
 - [x] Violated a Hack Club TOS
 - [x] Burnout upon burnout, imposter syndrome
 - [x] Inconsistent sleep schedule
+
+![Doggo](rsz_1img_0754.jpg)
