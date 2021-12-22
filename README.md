@@ -18,9 +18,10 @@ I finally have all the time in the world to explore my passions and better mysel
 
 ## List of happy accidents (been there, done that)
 
-- [x] Ghosted by a few dozen people
+- [x] Ghosted by a few dozen very important people
 - [x] Violated a Hack Club TOS
 - [x] Burnout upon burnout, imposter syndrome
 - [x] Inconsistent sleep schedule
+- [x] The entirety of College Applications
 
 ![Doggo](rsz_1img_0754.jpg)
