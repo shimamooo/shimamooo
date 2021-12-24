@@ -1,8 +1,6 @@
 # Anthony Kuang
 
-is just trying his best. Whether it all works out or not, only time will tell.
-
-I finally have all the time in the world to explore my passions and better myself. Let's set a one-year timer and see where that takes me! :D
+is just trying his best.
 
 ## Goals
 
